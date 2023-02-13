@@ -1,0 +1,23 @@
+{
+  "name": "animeoz-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1PopovAleksey/animeoz-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1PopovAleksey/animeoz-back/issues"
+  },
+  "homepage": "https://github.com/1PopovAleksey/animeoz-back#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
